@@ -192,3 +192,5 @@ This sort of localization produces one application for each locale, each in thei
 The third and last post-processing step is the creation of a [service worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API).
 A listing of final application files is taken, fingerprinted according to their content, and added to the service worker manifest.
 This must be the last step because it needs each application file to not be modified further.
+
+Test line.
